@@ -1,0 +1,2 @@
+# Fetching-Image-Data-on-API-with-Kotlin-Coroutine
+Kotlin Coroutineを試すサンプルコード。Http通信で取得した画像をDatabindingでImageViewに表示するシンプルな機能の実装
